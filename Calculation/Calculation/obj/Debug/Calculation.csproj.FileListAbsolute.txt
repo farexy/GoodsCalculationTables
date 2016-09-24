@@ -1,0 +1,9 @@
+D:\Разное\Работа\Calculation\Calculation\Calculation\bin\Debug\Calculation.exe.config
+D:\Разное\Работа\Calculation\Calculation\Calculation\bin\Debug\Calculation.exe
+D:\Разное\Работа\Calculation\Calculation\Calculation\bin\Debug\Calculation.pdb
+D:\Разное\Работа\Calculation\Calculation\Calculation\obj\Debug\Calculation.csprojResolveAssemblyReference.cache
+D:\Разное\Работа\Calculation\Calculation\Calculation\obj\Debug\Calculation.Form1.resources
+D:\Разное\Работа\Calculation\Calculation\Calculation\obj\Debug\Calculation.Properties.Resources.resources
+D:\Разное\Работа\Calculation\Calculation\Calculation\obj\Debug\Calculation.csproj.GenerateResource.Cache
+D:\Разное\Работа\Calculation\Calculation\Calculation\obj\Debug\Calculation.exe
+D:\Разное\Работа\Calculation\Calculation\Calculation\obj\Debug\Calculation.pdb
